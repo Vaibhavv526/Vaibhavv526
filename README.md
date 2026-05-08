@@ -6,14 +6,6 @@ Software Engineering Student | Machine Learning Engineer | AI & Data-Driven Syst
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavv526&show_icons=true&theme=tokyonight" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavv526&layout=compact&theme=tokyonight" height="150" />
-</div>
-
----
-
 <img align="right" height="170" src="https://www.gifcen.com/wp-content/uploads/2022/04/zoro-gif-5.gif" />
 ### 🚀 About Me
 
