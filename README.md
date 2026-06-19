@@ -7,7 +7,7 @@ Software Engineering Student | Machine Learning Engineer | AI & Data-Driven Syst
 ---
 
 <img align="right" height="170" src="https://www.gifcen.com/wp-content/uploads/2022/04/zoro-gif-5.gif" />
-### 🚀 About Me
+🚀 About Me
 
 - 🎓 B.Tech IT Student at Government Engineering College Bilaspur  
 - 🤖 Aspiring Machine Learning Engineer  
